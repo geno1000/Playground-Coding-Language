@@ -1,1 +1,1 @@
-# Playground-Coding-JavaScript
+# Playground-Language-JavaScript
